@@ -62,22 +62,9 @@ In the EDA we look at five important question to ask:
 5. Determine which word or text did the user use the most?
 
 
-
-I really hope you are enjoying reading my notebook as well my medium post . Hope you like it and maybe you can try out your own data analysis too!!.
-
-Medium post : https://medium.com/@edsenmichaelcy/whatsapp-message-exploratory-data-analysis-eda-538560ee1c99
-
-Reference
+# Reference
 https://www.drawingfromdata.com/setting-figure-size-using-seaborn-and-matplotlib
 
 https://seaborn.pydata.org/examples/part_whole_bars.html
 
-https://wellsr.com/python/seaborn-barplot-tutorial-for-python/#:~:text=If you want to display,have to do work around.&text=You can see that the,be stored in a variable.
-
-http://seaborn.pydata.org/tutorial/color_palettes.html
-
-https://stackoverflow.com/questions/34888058/changing-width-of-bars-in-bar-chart-created-using-seaborn-factorplot
-
-https://plotly.com/python/pie-charts/
-
-https://towardsdatascience.com/python-plotting-basics-simple-charts-with-matplotlib-seaborn-and-plotly-e36346952a3a
+https://wellsr.com/python/seaborn-barplot-tutorial-for-python/
