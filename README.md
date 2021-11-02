@@ -55,17 +55,17 @@ Then we start understand the business needed and the data in the dataframe. In t
 ## Exploratory Data Analysis(EDA)
 
 In the EDA we look at five important question to ask:
+1. Which users have the most Chat/messages in the group?
+2. Which emojis use the most by which users?
+3. Most active hours?
+4. Which month have the highest messages and also the busiest month?
+5. Determine which word or text did the user use the most?
 
-Which users have the most Chat/messages in the group?
-Which emojis use the most by which users?
-Most active hours?
-Which month have the highest messages and also the busiest month?
-Determine which word or text did the user use the most?
+
+
 I really hope you are enjoying reading my notebook as well my medium post . Hope you like it and maybe you can try out your own data analysis too!!.
 
 Medium post : https://medium.com/@edsenmichaelcy/whatsapp-message-exploratory-data-analysis-eda-538560ee1c99
-
-Thank you, Michael Chia Yin
 
 Reference
 https://www.drawingfromdata.com/setting-figure-size-using-seaborn-and-matplotlib
