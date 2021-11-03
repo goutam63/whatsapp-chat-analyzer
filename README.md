@@ -41,29 +41,6 @@ After knowing there is an unknown value in the dataset and inbalance row we now 
 5. Determine which word or text did the user use the most?
 
 
-## Conclusion
-### Data Retrieval
-
-First we learn how to load data at whatsapp and understand the format as text file.Other than that we understand what kind format should we extract(eg "media" or "without media")
-
-### Data Preparation and Cleaning
-
-In the data preparation and cleaning we learn on how to convert text file into dataframe. Then we learn to add name to the colums and even on how to clean image file from the dataframe
-
-### Business & Data understanding
-
-Then we start understand the business needed and the data in the dataframe. In the business understand how us to understand what question should we need to ask that will lead to business succeed.
-
-### Exploratory Data Analysis(EDA)
-
-In the EDA we look at five important question to ask:
-1. Which users have the most Chat/messages in the group?
-2. Which emojis use the most by which users?
-3. Most active hours?
-4. Which month have the highest messages and also the busiest month?
-5. Determine which word or text did the user use the most?
-
-
 ## Reference
 https://www.drawingfromdata.com/setting-figure-size-using-seaborn-and-matplotlib
 
