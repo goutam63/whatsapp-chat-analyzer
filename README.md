@@ -26,7 +26,7 @@ Make sure the data are clean, such as you all need text not picture.
 In any project we must understand what exactly we want to found out in this project?
 Do this analysis help us to achieve business goal?
 
-#Data Understanding
+# Data Understanding
 
 In here we can see there are 3 columns in the dataset
 The dataset contains date, text and a NaN value
@@ -48,7 +48,7 @@ First we learn how to load data at whatsapp and understand the format as text fi
 
 ## Data Preparation and Cleaning
 
-In the data preparation and cleaning we learn on how to convert text file into dataframe by using txtTodf() functions. Then we learn to add name to the colums and even on how to clean image file from the dataframe
+In the data preparation and cleaning we learn on how to convert text file into dataframe. Then we learn to add name to the colums and even on how to clean image file from the dataframe
 
 ## Business & Data understanding
 
