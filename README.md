@@ -18,8 +18,7 @@ Business and data understand is the success key factor of a good analysis
 Make sure all the row number is balance because we did now want to see outliner
 Make sure the data are clean, such as you all need text not picture.
 
-## Business & Data understanding
-### Before we start any analysis we need to understand the Business and the data side
+# Before we start any analysis we need to understand the Business and the data side
 
 ## Business understanding:
 
