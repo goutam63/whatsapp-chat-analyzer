@@ -26,12 +26,6 @@ Make sure the data are clean, such as you all need text not picture.
 In any project we must understand what exactly we want to found out in this project?
 Do this analysis help us to achieve business goal?
 
-## Data Understanding
-
-In here we can see there are 3 columns in the dataset
-The dataset contains date, text and a NaN value
-Using the info(), we are able to know the row of each object is not balance because there are 21k message but some of the columns only have 23k and 700
-After knowing there is an unknown value in the dataset and inbalance row we now can clear the data
 
 ## Let get started on the Exploratory Data Analysis(EDA)
 1. Which users have the most Chat/messages in the group?
